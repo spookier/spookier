@@ -48,7 +48,3 @@
   <div align="left">
   <p><ins> spxxky.dev@gmail.com </ins></p>
 </div>
-  
-
-
-[![](https://visitcount.itsvg.in/api?id=spookier&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
