@@ -7,21 +7,12 @@
 
  ![](https://github-readme-streak-stats.herokuapp.com/?user=spookier&theme=midnight-purple&hide_border=true)<br/>
  
-
  </div>
 
 <div align="center">
 <div style="text-align: center;">
   
 
-<br>
-
-
-<div align="center">
-  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=spookier&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-</div>
 <br>
 
 
