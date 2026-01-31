@@ -1,9 +1,9 @@
  <div align="center">
    
-   **Currently studying Software Engineering at École 42, Paris**
+   **Software Engineer & Security Researcher @ [42 Paris](https://42.fr)**
    </br>
    </br>
-    **Pursuing the [IT Architecture Expert](https://42.fr/en/42-in-paris/computer-science-degree/it-architecture-expert/) degree**
+    **Specializing in Low-Level Systems & Offensive Security**
 
  ![](https://github-readme-streak-stats.herokuapp.com/?user=spookier&theme=midnight-purple&hide_border=true)<br/>
  
@@ -19,6 +19,7 @@
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![ASM](https://img.shields.io/badge/ASM-x86%20%2F%20x64-black?style=for-the-badge&logo=assembly&logoColor=white)
 ![PYTHON](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -31,7 +32,7 @@
 
 
   
- **Contact me**
+ **Contact**
  
 </div>
 
