@@ -1,12 +1,12 @@
  <div align="center">
    
-   **Software Engineer & Security Researcher @ [42 Paris](https://42.fr)**
+   **Software Engineer (FinTech) @ [Worldline](https://worldline.com)**  
+   **Cybersecurity Student @ [42 Paris](https://42.fr)**  
    </br>
    </br>
     **Specializing in Low-Level Systems & Offensive Security**
 
  ![](https://github-readme-streak-stats.herokuapp.com/?user=spookier&theme=midnight-purple&hide_border=true)<br/>
- 
  </div>
 
 <div align="center">
