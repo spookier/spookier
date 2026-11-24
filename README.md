@@ -27,8 +27,8 @@ Specializing in Low-Level Systems & Offensive Security
 
 ### Projects & Tools:
 
-- **[VGK Log Reader](https://github.com/spookier/vgk-log-reader)** - Decrypts Riot Vanguard's encrypted logs to investigate crashes, process activity and potential ban triggers.  ([Live demo](https://spookier.github.io/vgk/))
-  
+- **[VGK Log Reader](https://github.com/spookier/vgk-log-reader)** - Decrypts and analyzes Riot Vanguard’s encrypted logs. [Open web app ↗](https://spookier.github.io/vgk/)
+
 ---
 
 ### Contact
