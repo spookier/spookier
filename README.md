@@ -1,10 +1,8 @@
-# spookier
-
 <div align="center">
 
 **Software Engineer & Cybersecurity Student @ [42 Paris](https://42.fr)**
 
-Previously **Software Engineer Intern @ [Worldline](https://worldline.com)**
+Previously **Software Engineer Intern (FinTech) @ [Worldline](https://worldline.com)**
 
 <br/>
 
@@ -27,7 +25,7 @@ Specializing in Low-Level Systems & Offensive Security
 
 ### Projects & Tools:
 
-- **[VGK Log Reader](https://github.com/spookier/vgk-log-reader)** - Decrypts and analyzes Riot Vanguard’s encrypted logs. [Open web app ↗](https://spookier.github.io/vgk/)
+- **[VGK Log Reader](https://github.com/spookier/vgk-log-reader)** - Decrypts and analyzes Riot Vanguard’s encrypted logs [Open web app ↗](https://spookier.github.io/vgk/)
 
 ---
 
